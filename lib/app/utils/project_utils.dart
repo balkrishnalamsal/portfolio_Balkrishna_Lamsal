@@ -20,7 +20,7 @@ List<ProjectUtils> projectUtils = [
     titles: 'Awesome Social Media App',
     description:
         'This is a just Fully functional Social media App by using flutter, source code is also available, check below.',
-    links: 'https://github.com/sudeshnb/poetically-.git',
+    links: 'https://github.com/adwinlamsal',
   ),
   ProjectUtils(
     banners: 'assets/imgs/1.png',
@@ -28,7 +28,7 @@ List<ProjectUtils> projectUtils = [
     titles: 'Awesome CRM UI',
     description:
         'This is a just CRM UI Design using Figma, file is also available, check below.',
-    links: 'https://github.com/sudeshnb/',
+    links: 'https://github.com/adwinlamsal',
   ),
   ProjectUtils(
     banners: 'assets/imgs/03.png',
@@ -36,7 +36,7 @@ List<ProjectUtils> projectUtils = [
     titles: 'Exercise App',
     description:
         'This is a just Fully function Exercise App by using flutter, source code is also available, check below.',
-    links: 'https://github.com/sudeshnb/elderly_exercise_app.git',
+    links: 'https://github.com/adwinlamsal',
   ),
   ProjectUtils(
     banners: 'assets/imgs/04.png',
@@ -44,6 +44,6 @@ List<ProjectUtils> projectUtils = [
     titles: 'Awesome Plant App UI',
     description:
         'This is a just Plant App UI by using flutter, source code is also available, check below.',
-    links: 'https://github.com/sudeshnb/flutter_plant_app.git',
+    links: 'https://github.com/adwinlamsal',
   ),
 ];

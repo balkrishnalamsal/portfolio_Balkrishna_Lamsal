@@ -4,7 +4,7 @@ String yourname = "I'm Balkrishna Lamsal,";
 // String hometitle2 = "A Mobile Application\nDeveloper";
 
 String animationtxt1 = " Mobile Application Developer";
-String animationtxt2 = " UI/UX Designer";
+String animationtxt2 = " Windows App Developer";
 String animationtxt3 = " Web Developer";
 
 //
@@ -25,4 +25,4 @@ const String aboutMeHeadline =
     'I\'m Balkrishna Lamsal, a Mobile App developer, Web developer and UI designer.';
 
 const String aboutMeDetail =
-    'I\'m a Fresh Graduate as Software Engineer from Quanrt University, UK. I have been developing mobile apps for over 4 years now. I have worked in teams for various startups and helped them in launching their prototypes and got valuable learning experience. Been a CEO/Co-Founder of Onyxsio, Sri Lanka. Currently working as an Associate Software Engineer at Onyxsio.';
+    'I\'m a Fresh with 3 years of experience in Flutter app development, I possess a deep understanding of the Flutter framework, Dart programming language, and various libraries and packages associated with Flutter development. My expertise lies in building robust, feature-rich, and visually appealing mobile applications for both Android Platforms and Desktop Platforms.';
