@@ -10,13 +10,8 @@ class NChecking extends StatelessWidget {
   Widget build(BuildContext context) {
     return BlocConsumer<ConnectedBloc, ConnectedState>(
       listener: (context, state) {
-        // if (state is ConnectedSucessState) {
-        //   ScaffoldMessenger.of(context).showSnackBar(
-        //       const SnackBar(content: Text('Internet Connected')));
-        // } else if (state is ConnectedFailureState) {
-        //   ScaffoldMessenger.of(context)
-        //       .showSnackBar(const SnackBar(content: Text('Internet Lost')));
-        // }
+
+
       },
       builder: (context, state) {
         if (state is ConnectedSucessState) {

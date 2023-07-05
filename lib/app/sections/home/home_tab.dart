@@ -23,7 +23,7 @@ class HomeTab extends StatelessWidget {
   Widget build(BuildContext context) {
     var theme = Theme.of(context);
     return SizedBox(
-      height: 60.h,
+      height: 50.h,
       child: Stack(
         children: [
           Positioned(
@@ -87,16 +87,6 @@ class HomeTab extends StatelessWidget {
                   ),
                 ),
                 Space.y(1.5.w)!,
-                Padding(
-                  padding: EdgeInsets.only(right: 50.w),
-                  child: Text(
-                    miniDescription,
-                    style: TextStyle(
-                        fontSize: isFontSize(context, 16),
-                        fontWeight: FontWeight.w100,
-                        color: theme.textColor.withOpacity(0.6)),
-                  ),
-                ),
                 Space.y(2.w)!,
                 ColorChageButton(
                   text: 'download cv',
