@@ -17,14 +17,15 @@ List<ServicesUtils> servicesUtils = [
     icon: 'assets/icons/android.svg',
     description:
         "Are you interested in the great Mobile app? Let's make it a reality.",
-    tool: ['Flutter',],
+    tool: ['Flutter','Firebase','Bloc','Provider','MangoDB'],
+
   ),
   ServicesUtils(
     name: 'iOS App Development',
     icon: 'assets/icons/apple.svg',
     description:
         "Are you interested in the great Mobile app? Let's make it a reality.",
-    tool: ['Flutter'],
+    tool: ['Flutter','Firebase','Bloc','Provider','MangoDB'],
   ),
   ServicesUtils(
     name: 'UI/UX Designing',
@@ -38,7 +39,7 @@ List<ServicesUtils> servicesUtils = [
     icon: 'assets/icons/website.svg',
     description:
         "Do you have an idea for your next great website? Let's make it a reality.",
-    tool: ['Flutter','Firebase','MangoDB'],
+    tool: ['Flutter','Firebase','Bloc','Provider','MangoDB'],
   ),
 
   ServicesUtils(
@@ -46,6 +47,6 @@ List<ServicesUtils> servicesUtils = [
     icon: 'assets/icons/website.svg',
     description:
     "Do you have an idea for your next great website? Let's make it a reality.",
-    tool: ['Flutter','Firebase',],
+    tool: ['Flutter','Firebase','Bloc','Provider','MangoDB'],
   ),
 ];
