@@ -32,7 +32,7 @@ List<ServicesUtils> servicesUtils = [
     icon: 'assets/icons/graphic.svg',
     description:
         "I'm creating elegant designs suited to your needs following core design theory. ",
-    tool: ['Photoshop'],
+    tool: ['Photoshop','Logo Designing','App icon designing','Store listing Designing'],
   ),
   ServicesUtils(
     name: 'Web Development',

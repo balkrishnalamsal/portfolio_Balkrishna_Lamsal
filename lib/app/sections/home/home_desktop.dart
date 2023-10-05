@@ -89,12 +89,6 @@ class HomeDesktop extends StatelessWidget {
                         )),
                   ),
                   Space.y(3.w)!,
-                  ColorChageButton(
-                    text: 'download cv',
-                    onTap: () {
-                      html.window.open(resume, "pdf");
-                    },
-                  ),
                 ],
               ),
             ),
