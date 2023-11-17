@@ -1,6 +1,6 @@
 # My Portfolio Web App
 
-link : https:///Balkrishnalamsal.com
+link : https://Balkrishnalamsal.com
 
 
 
